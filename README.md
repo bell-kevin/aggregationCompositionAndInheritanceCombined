@@ -1,6 +1,13 @@
 # aggregationCompositionAndInheritanceCombined
 aggregation, Composition And Inheritance Combined
 
+Class Diagram
+
+![Class diagram](https://github.com/bell-kevin/aggregationCompositionAndInheritanceCombined/blob/main/PXL_20220826_024306548.jpg)
+
+Output
+
+![ouput](https://github.com/bell-kevin/aggregationCompositionAndInheritanceCombined/blob/main/fantasticUsedCars.PNG)
 
 == We're Using GitHub Under Protest ==
 
